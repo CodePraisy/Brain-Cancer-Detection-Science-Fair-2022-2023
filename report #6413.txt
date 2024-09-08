@@ -1,0 +1,42 @@
+Brain Cancer Imaging Report
+
+Model: BCM_LiteTurbo4.h5
+
+Total Prediction Time: 4.13
+Time-Per-Image: 0.21
+
+Images: 20
+Defined Rate: 100.0%
+
+Cancerous Rate: 45.0%
+Non Cancerous Rate: 55.0%
+
+cancerous: 9
+non_cancerous: 11
+undetermined: 0
+undetermined_range: 15
+
+
+
+Raw Data:
+
+pred0.jpg || Raw output: [1094.3677] || Tag: non_cancerous
+pred1.jpg || Raw output: [1524.9136] || Tag: non_cancerous
+pred10.jpg || Raw output: [-2433.1978] || Tag: cancerous
+pred11.jpg || Raw output: [-1237.1632] || Tag: cancerous
+pred12.jpg || Raw output: [599.8123] || Tag: non_cancerous
+pred13.jpg || Raw output: [305.42694] || Tag: non_cancerous
+pred14.jpg || Raw output: [-815.5664] || Tag: cancerous
+pred15.jpg || Raw output: [412.6798] || Tag: non_cancerous
+pred16.jpg || Raw output: [-719.92786] || Tag: cancerous
+pred17.jpg || Raw output: [154.84122] || Tag: non_cancerous
+pred18.jpg || Raw output: [154.84122] || Tag: non_cancerous
+pred19.jpg || Raw output: [165.91357] || Tag: non_cancerous
+pred2.jpg || Raw output: [-878.37085] || Tag: cancerous
+pred3.jpg || Raw output: [63.379597] || Tag: non_cancerous
+pred4.jpg || Raw output: [3152.3906] || Tag: non_cancerous
+pred5.jpg || Raw output: [-322.77893] || Tag: cancerous
+pred6.jpg || Raw output: [60.786877] || Tag: non_cancerous
+pred7.jpg || Raw output: [-266.77667] || Tag: cancerous
+pred8.jpg || Raw output: [-1546.4769] || Tag: cancerous
+pred9.jpg || Raw output: [-803.2925] || Tag: cancerous

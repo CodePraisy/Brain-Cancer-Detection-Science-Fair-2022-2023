@@ -1,0 +1,23 @@
+Brain Cancer Imaging Report
+
+Model: BCM_LiteTurbo4.h5
+
+Total Prediction Time: 1.71
+Time-Per-Image: 0.21
+
+Images: 8
+Defined Rate: 100.0%
+
+Cancerous Rate: 37.5%
+cancerous: 3
+non_cancerous: 5
+undetermined: 0
+
+No14.jpg || Raw output: [2087.1758] || Tag: non_cancerous
+No17.jpg || Raw output: [869.14246] || Tag: non_cancerous
+No19.jpg || Raw output: [453.16663] || Tag: non_cancerous
+no21.jpg || Raw output: [1301.3772] || Tag: non_cancerous
+no5.jpg || Raw output: [912.0047] || Tag: non_cancerous
+y357.jpg || Raw output: [-3576.7388] || Tag: cancerous
+y368.jpg || Raw output: [-1405.1267] || Tag: cancerous
+y386.jpg || Raw output: [-816.3153] || Tag: cancerous

@@ -1,0 +1,335 @@
+Brain Cancer Accuracy Test Report Conclusion
+
+Undetermined Range: 15
+
+loading_models_time: 0:00:08
+image_loading_time: 0:05:37
+total_prediction_time: 5:22:44
+
+total__time: 5:28:29
+
+BCM_Lite stats:           
+
+prediction_time: 0:12:34 
+time_per_image: 0.23 second(s) 
+accuracy: 74.33% 
+define_rate: 83.61% 
+undetermined: 533 
+right: 2021 
+wrong: 698
+
+
+BCM_Lite2 stats:           
+
+prediction_time: 0:12:51 
+time_per_image: 0.24 second(s) 
+accuracy: 78.41% 
+define_rate: 87.58% 
+undetermined: 404 
+right: 2233 
+wrong: 615
+
+
+BCM_Lite3 stats:           
+
+prediction_time: 0:11:32 
+time_per_image: 0.21 second(s) 
+accuracy: 87.56% 
+define_rate: 98.12% 
+undetermined: 61 
+right: 2794 
+wrong: 397
+
+
+BCM_LiteExtremeQuadCell stats:           
+
+prediction_time: 0:11:39 
+time_per_image: 0.21 second(s) 
+accuracy: 78.01% 
+define_rate: 98.19% 
+undetermined: 59 
+right: 2491 
+wrong: 702
+
+
+BCM_LiteTurbo stats:           
+
+prediction_time: 0:11:25 
+time_per_image: 0.21 second(s) 
+accuracy: 87.72% 
+define_rate: 98.65% 
+undetermined: 44 
+right: 2814 
+wrong: 394
+
+
+BCM_LiteTurbo2 stats:           
+
+prediction_time: 0:11:17 
+time_per_image: 0.21 second(s) 
+accuracy: 93.12% 
+define_rate: 99.66% 
+undetermined: 11 
+right: 3018 
+wrong: 223
+
+
+BCM_LiteTurbo3 stats:           
+
+prediction_time: 0:12:36 
+time_per_image: 0.23 second(s) 
+accuracy: 91.28% 
+define_rate: 98.43% 
+undetermined: 51 
+right: 2922 
+wrong: 279
+
+
+BCM_LiteTurbo4 stats:           
+
+prediction_time: 0:12:59 
+time_per_image: 0.24 second(s) 
+accuracy: 95.42% 
+define_rate: 99.45% 
+undetermined: 18 
+right: 3086 
+wrong: 148
+
+
+BCM_LiteTurbo5 stats:           
+
+prediction_time: 0:12:00 
+time_per_image: 0.22 second(s) 
+accuracy: 93.48% 
+define_rate: 99.48% 
+undetermined: 17 
+right: 3024 
+wrong: 211
+
+
+BCM_LiteTurboPentarieCell stats:           
+
+prediction_time: 0:12:08 
+time_per_image: 0.22 second(s) 
+accuracy: 33.33% 
+define_rate: 0.28% 
+undetermined: 3243 
+right: 3 
+wrong: 6
+
+
+BCM_LiteTurboPentarieCell2 stats:           
+
+prediction_time: 0:14:38 
+time_per_image: 0.27 second(s) 
+accuracy: 0.0% 
+define_rate: 0.06% 
+undetermined: 3250 
+right: 0 
+wrong: 2
+
+
+BCM_LiteTurboPrime stats:           
+
+prediction_time: 0:14:50 
+time_per_image: 0.27 second(s) 
+accuracy: 92.08% 
+define_rate: 99.45% 
+undetermined: 18 
+right: 2978 
+wrong: 256
+
+
+BCM_LiteTurboPrime2 stats:           
+
+prediction_time: 0:13:55 
+time_per_image: 0.26 second(s) 
+accuracy: 94.85% 
+define_rate: 99.63% 
+undetermined: 12 
+right: 3073 
+wrong: 167
+
+
+BCM_LiteTurboPrime3 stats:           
+
+prediction_time: 0:12:04 
+time_per_image: 0.22 second(s) 
+accuracy: 97.97% 
+define_rate: 99.97% 
+undetermined: 1 
+right: 3185 
+wrong: 66
+
+
+BCM_LiteTurboPrime4 stats:           
+
+prediction_time: 0:11:31 
+time_per_image: 0.21 second(s) 
+accuracy: 98.65% 
+define_rate: 99.91% 
+undetermined: 3 
+right: 3205 
+wrong: 44
+
+BCM_LiteTurboPrime4-5 stats:           
+
+prediction_time: 0:11:52 
+time_per_image: 0.22 second(s) 
+accuracy: 98.09% 
+define_rate: 99.91% 
+undetermined: 3 
+right: 3187 
+wrong: 62
+
+
+BCM_LiteTurboPrime5 stats:           
+
+prediction_time: 0:12:05 
+time_per_image: 0.22 second(s) 
+accuracy: 95.49% 
+define_rate: 99.6% 
+undetermined: 13 
+right: 3093 
+wrong: 146
+
+BCM_LiteTurboPrimeD1 stats:           
+
+prediction_time: 0:11:54 
+time_per_image: 0.22 second(s) 
+accuracy: 80.52% 
+define_rate: 98.19% 
+undetermined: 59 
+right: 2571 
+wrong: 622
+
+
+BCM_LiteTurboPrimeD2 stats:           
+
+prediction_time: 0:11:14 
+time_per_image: 0.21 second(s) 
+accuracy: 81.86% 
+define_rate: 98.99% 
+undetermined: 33 
+right: 2635 
+wrong: 584
+
+
+BCM_LiteTurboPrimeD3 stats:           
+
+prediction_time: 0:11:12 
+time_per_image: 0.21 second(s) 
+accuracy: 86.37% 
+define_rate: 99.05% 
+undetermined: 31 
+right: 2782 
+wrong: 439
+
+
+BCM_LiteTurboPrimeD4 stats:           
+
+prediction_time: 0:11:16 
+time_per_image: 0.21 second(s) 
+accuracy: 89.73% 
+define_rate: 99.42% 
+undetermined: 19 
+right: 2901 
+wrong: 332
+
+
+BCM_MediumExtreme stats:           
+
+prediction_time: 0:11:51 
+time_per_image: 0.22 second(s) 
+accuracy: 67.77% 
+define_rate: 66.61% 
+undetermined: 1086 
+right: 1468 
+wrong: 698
+
+
+BCM_MediumTurbo stats:           
+
+prediction_time: 0:11:15 
+time_per_image: 0.21 second(s) 
+accuracy: 69.57% 
+define_rate: 56.4% 
+undetermined: 1418 
+right: 1276 
+wrong: 558
+
+
+BCM_MediumTurbo2 stats:           
+
+prediction_time: 0:11:06 
+time_per_image: 0.2 second(s) 
+accuracy: 63.64% 
+define_rate: 52.18% 
+undetermined: 1555 
+right: 1080 
+wrong: 617
+
+
+BCM_MediumTurbo3 stats:           
+
+prediction_time: 0:11:17 
+time_per_image: 0.21 second(s) 
+accuracy: 63.37% 
+define_rate: 53.14% 
+undetermined: 1524 
+right: 1095 
+wrong: 633
+
+
+BCM_MediumTurbo4 stats:           
+
+prediction_time: 0:11:30 
+time_per_image: 0.21 second(s) 
+accuracy: 62.91% 
+define_rate: 53.47% 
+undetermined: 1513 
+right: 1094 
+wrong: 645
+
+
+BCM_Small stats:           
+
+prediction_time: 0:10:38 
+time_per_image: 0.2 second(s) 
+accuracy: 74.2% 
+define_rate: 97.85% 
+undetermined: 70 
+right: 2361 
+wrong: 821
+
+
+BCM_Small2 stats:           
+
+prediction_time: 0:10:33 
+time_per_image: 0.19 second(s) 
+accuracy: 89.94% 
+define_rate: 99.08% 
+undetermined: 30 
+right: 2898 
+wrong: 324
+
+
+BCM_Small3 stats:           
+
+prediction_time: 0:10:59 
+time_per_image: 0.2 second(s) 
+accuracy: 92.66% 
+define_rate: 99.29% 
+undetermined: 23 
+right: 2992 
+wrong: 237
+
+BrainCancerModelConv1 stats:           
+
+prediction_time: 0:13:35 
+time_per_image: 0.25 second(s) 
+accuracy: 49.35% 
+define_rate: 100.0% 
+undetermined: 0 
+right: 1605 
+wrong: 1647

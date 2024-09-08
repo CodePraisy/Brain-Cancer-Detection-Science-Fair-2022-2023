@@ -1,0 +1,6 @@
+From the LiteTurbo class LiteTurbo2 is clearly and undisputably better then LiteTurbo1
+
+It has 900k+ Parameters.
+
+It got none of the test set wrong, unlike LiteTurbo1 and is about the same image per second speed as LiteTurbo1.
+

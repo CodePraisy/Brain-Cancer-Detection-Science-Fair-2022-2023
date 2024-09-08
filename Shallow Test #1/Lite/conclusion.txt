@@ -1,0 +1,5 @@
+Lite 2 is clearly the better model out of the Lite class.
+
+It is only a tenth of a second slower then the fastest model and clocks in on average 0.43 seconds per image which is pretty good.
+
+It has 450k+ parameters and has by far the most accuracy in the Lite Class.

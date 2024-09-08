@@ -1,0 +1,17 @@
+Brain Cancer Imaging Report
+
+Model: BrainCancerModelMediumTurbo3.h5
+
+No14.jpg | Raw output: [-1636.7456]
+No17.jpg | Raw output: [0.5430986]
+No19.jpg | Raw output: [0.5430986]
+no21.jpg | Raw output: [0.5430986]
+no5.jpg | Raw output: [0.5430986]
+y357.jpg | Raw output: [-17939.496]
+y368.jpg | Raw output: [1545.7124]
+y386.jpg | Raw output: [-1891.4515]
+
+Total Prediction Time: 1.631
+Time-Per-Image: 0.203875
+
+Images: 8

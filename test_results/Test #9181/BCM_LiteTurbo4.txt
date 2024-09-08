@@ -1,0 +1,269 @@
+Brain Cancer Accuracy Test Report
+
+Model: BCM_LiteTurbo4
+
+Total Prediction Time: 58.05 second(s)
+Time-Per-Image: 0.23 second(s)
+
+Images: 252
+
+accuracy: 93.63%
+undetermined_range: 15
+define_rate: 99.6%
+
+undetermined: 1 images || right: 235 images || wrong: 16 images
+
+Raw Data:
+
+Y1.jpg || Raw output: [-81.80386] || Actual Tag: cancer_positive || right
+No15.jpg || Raw output: [93.570656] || Actual Tag: cancer_negitive || right
+9 no.jpg || Raw output: [591.09216] || Actual Tag: cancer_negitive || right
+6 no.jpg || Raw output: [2079.0781] || Actual Tag: cancer_negitive || right
+34 no.jpg || Raw output: [620.74664] || Actual Tag: cancer_negitive || right
+Y39.jpg || Raw output: [-602.5611] || Actual Tag: cancer_positive || right
+Y46.jpg || Raw output: [-1624.404] || Actual Tag: cancer_positive || right
+Y6.jpg || Raw output: [-7956.223] || Actual Tag: cancer_positive || right
+Y47.JPG || Raw output: [-2067.9963] || Actual Tag: cancer_positive || right
+Y168.jpg || Raw output: [-1759.6392] || Actual Tag: cancer_positive || right
+Y38.jpg || Raw output: [-1749.4645] || Actual Tag: cancer_positive || right
+Y42.jpg || Raw output: [-1687.6084] || Actual Tag: cancer_positive || right
+no 97.jpg || Raw output: [1448.0182] || Actual Tag: cancer_negitive || right
+No21.jpg || Raw output: [2306.8855] || Actual Tag: cancer_negitive || right
+Y33.jpg || Raw output: [-246.8027] || Actual Tag: cancer_positive || right
+no 100.jpg || Raw output: [1000.36163] || Actual Tag: cancer_negitive || right
+N21.jpg || Raw output: [1487.8657] || Actual Tag: cancer_negitive || right
+Y67.JPG || Raw output: [-1823.0725] || Actual Tag: cancer_positive || right
+Y155.JPG || Raw output: [-2676.1428] || Actual Tag: cancer_positive || right
+Y186.jpg || Raw output: [-213.71912] || Actual Tag: cancer_positive || right
+no 94.jpg || Raw output: [3119.8806] || Actual Tag: cancer_negitive || right
+Y252.jpg || Raw output: [-1486.4537] || Actual Tag: cancer_positive || right
+Y17.jpg || Raw output: [-1375.0426] || Actual Tag: cancer_positive || right
+No22.jpg || Raw output: [3005.4966] || Actual Tag: cancer_negitive || right
+Y98.JPG || Raw output: [-888.8937] || Actual Tag: cancer_positive || right
+20 no.jpg || Raw output: [941.3785] || Actual Tag: cancer_negitive || right
+no 89.jpg || Raw output: [800.1973] || Actual Tag: cancer_negitive || right
+Y188.jpg || Raw output: [-3309.0244] || Actual Tag: cancer_positive || right
+Y246.JPG || Raw output: [-1839.2104] || Actual Tag: cancer_positive || right
+Y65.JPG || Raw output: [-368.18433] || Actual Tag: cancer_positive || right
+Y24.jpg || Raw output: [-327.08978] || Actual Tag: cancer_positive || right
+Y156.JPG || Raw output: [-2976.468] || Actual Tag: cancer_positive || right
+Y253.JPG || Raw output: [167.58127] || Actual Tag: cancer_positive || wrong
+37 no.jpg || Raw output: [1584.958] || Actual Tag: cancer_negitive || right
+Y194.jpg || Raw output: [-113.40451] || Actual Tag: cancer_positive || right
+no 99.jpg || Raw output: [816.0964] || Actual Tag: cancer_negitive || right
+no 6.jpg || Raw output: [1320.894] || Actual Tag: cancer_negitive || right
+Y158.JPG || Raw output: [-401.9961] || Actual Tag: cancer_positive || right
+Y256.JPG || Raw output: [-247.2338] || Actual Tag: cancer_positive || right
+Y32.jpg || Raw output: [-1464.9993] || Actual Tag: cancer_positive || right
+Y91.jpg || Raw output: [-2022.8185] || Actual Tag: cancer_positive || right
+no 95.jpg || Raw output: [1264.1243] || Actual Tag: cancer_negitive || right
+Y7.jpg || Raw output: [-702.976] || Actual Tag: cancer_positive || right
+32 no.jpg || Raw output: [2219.6094] || Actual Tag: cancer_negitive || right
+Y160.JPG || Raw output: [-432.61066] || Actual Tag: cancer_positive || right
+1 no.jpeg || Raw output: [3119.8806] || Actual Tag: cancer_negitive || right
+42 no.jpg || Raw output: [992.8628] || Actual Tag: cancer_negitive || right
+Y112.JPG || Raw output: [-1479.1514] || Actual Tag: cancer_positive || right
+Y154.jpg || Raw output: [-4286.3657] || Actual Tag: cancer_positive || right
+Y95.jpg || Raw output: [-381.13812] || Actual Tag: cancer_positive || right
+Y106.jpg || Raw output: [-2167.9312] || Actual Tag: cancer_positive || right
+Y73.jpg || Raw output: [-3871.2966] || Actual Tag: cancer_positive || right
+Y244.JPG || Raw output: [-1731.6658] || Actual Tag: cancer_positive || right
+Y103.jpg || Raw output: [-2289.011] || Actual Tag: cancer_positive || right
+Y40.JPG || Raw output: [-1372.6492] || Actual Tag: cancer_positive || right
+Y100.JPG || Raw output: [559.39685] || Actual Tag: cancer_positive || wrong
+7 no.jpg || Raw output: [605.7916] || Actual Tag: cancer_negitive || right
+Y23.JPG || Raw output: [-254.87239] || Actual Tag: cancer_positive || right
+12 no.jpg || Raw output: [2083.2014] || Actual Tag: cancer_negitive || right
+Y113.JPG || Raw output: [-1588.9773] || Actual Tag: cancer_positive || right
+Y115.JPG || Raw output: [-1776.6023] || Actual Tag: cancer_positive || right
+4 no.jpg || Raw output: [1797.7717] || Actual Tag: cancer_negitive || right
+Y182.JPG || Raw output: [-480.68805] || Actual Tag: cancer_positive || right
+Y259.JPG || Raw output: [-411.90698] || Actual Tag: cancer_positive || right
+Y82.jpg || Raw output: [-809.985] || Actual Tag: cancer_positive || right
+no.jpg || Raw output: [1059.6052] || Actual Tag: cancer_negitive || right
+Y37.jpg || Raw output: [-3385.32] || Actual Tag: cancer_positive || right
+27 no.jpg || Raw output: [1233.1709] || Actual Tag: cancer_negitive || right
+18 no.jpg || Raw output: [1978.56] || Actual Tag: cancer_negitive || right
+25 no.jpg || Raw output: [1339.7227] || Actual Tag: cancer_negitive || right
+14 no.jpg || Raw output: [2794.0383] || Actual Tag: cancer_negitive || right
+Y10.jpg || Raw output: [-3385.32] || Actual Tag: cancer_positive || right
+no 98.jpg || Raw output: [601.4874] || Actual Tag: cancer_negitive || right
+17 no.jpg || Raw output: [1233.1709] || Actual Tag: cancer_negitive || right
+24 no.jpg || Raw output: [27.773102] || Actual Tag: cancer_negitive || right
+49 no.jpg || Raw output: [2375.4465] || Actual Tag: cancer_negitive || right
+N15.jpg || Raw output: [635.13245] || Actual Tag: cancer_negitive || right
+N5.jpg || Raw output: [1797.7717] || Actual Tag: cancer_negitive || right
+2 no.jpeg || Raw output: [1492.6212] || Actual Tag: cancer_negitive || right
+N26.JPG || Raw output: [-2215.3362] || Actual Tag: cancer_negitive || wrong
+Y60.jpg || Raw output: [-25.686249] || Actual Tag: cancer_positive || right
+Y108.jpg || Raw output: [-2646.4016] || Actual Tag: cancer_positive || right
+Y81.jpg || Raw output: [-605.3362] || Actual Tag: cancer_positive || right
+Y257.jpg || Raw output: [-1072.5267] || Actual Tag: cancer_positive || right
+Y255.JPG || Raw output: [-1731.1685] || Actual Tag: cancer_positive || right
+Y251.JPG || Raw output: [31.93042] || Actual Tag: cancer_positive || wrong
+Y71.JPG || Raw output: [-553.4328] || Actual Tag: cancer_positive || right
+Y69.jpg || Raw output: [-1593.8636] || Actual Tag: cancer_positive || right
+5 no.jpg || Raw output: [1491.9137] || Actual Tag: cancer_negitive || right
+Y30.jpg || Raw output: [-1749.4645] || Actual Tag: cancer_positive || right
+Y13.jpg || Raw output: [-1219.3079] || Actual Tag: cancer_positive || right
+Y162.jpg || Raw output: [-2646.4016] || Actual Tag: cancer_positive || right
+Y89.JPG || Raw output: [-10759.028] || Actual Tag: cancer_positive || right
+22 no.jpg || Raw output: [1091.7207] || Actual Tag: cancer_negitive || right
+no 5.jpeg || Raw output: [735.42334] || Actual Tag: cancer_negitive || right
+Y90.jpg || Raw output: [-594.05206] || Actual Tag: cancer_positive || right
+Y22.jpg || Raw output: [-526.0397] || Actual Tag: cancer_positive || right
+no 8.jpg || Raw output: [1321.2462] || Actual Tag: cancer_negitive || right
+Y147.JPG || Raw output: [-1631.4937] || Actual Tag: cancer_positive || right
+N19.JPG || Raw output: [506.2336] || Actual Tag: cancer_negitive || right
+N2.JPG || Raw output: [1261.2205] || Actual Tag: cancer_negitive || right
+41 no.jpg || Raw output: [1531.8342] || Actual Tag: cancer_negitive || right
+Y102.jpg || Raw output: [-2094.1328] || Actual Tag: cancer_positive || right
+Y12.jpg || Raw output: [-980.002] || Actual Tag: cancer_positive || right
+Y8.jpg || Raw output: [-83.58505] || Actual Tag: cancer_positive || right
+Y19.JPG || Raw output: [-101.928604] || Actual Tag: cancer_positive || right
+Y96.jpg || Raw output: [-5345.364] || Actual Tag: cancer_positive || right
+Y249.JPG || Raw output: [-336.62738] || Actual Tag: cancer_positive || right
+Y169.jpg || Raw output: [-1219.3079] || Actual Tag: cancer_positive || right
+40 no.jpg || Raw output: [1531.8342] || Actual Tag: cancer_negitive || right
+44no.jpg || Raw output: [900.9397] || Actual Tag: cancer_negitive || right
+no 92.jpg || Raw output: [574.53986] || Actual Tag: cancer_negitive || right
+Y99.JPG || Raw output: [-2257.391] || Actual Tag: cancer_positive || right
+Y85.JPG || Raw output: [-1479.7856] || Actual Tag: cancer_positive || right
+Y27.jpg || Raw output: [-752.9977] || Actual Tag: cancer_positive || right
+Y41.jpg || Raw output: [-2859.2532] || Actual Tag: cancer_positive || right
+31 no.jpg || Raw output: [533.21234] || Actual Tag: cancer_negitive || right
+Y101.jpg || Raw output: [-1587.2368] || Actual Tag: cancer_positive || right
+35 no.jpg || Raw output: [876.08105] || Actual Tag: cancer_negitive || right
+Y49.JPG || Raw output: [-495.85522] || Actual Tag: cancer_positive || right
+47 no.jpg || Raw output: [888.20874] || Actual Tag: cancer_negitive || right
+Y242.JPG || Raw output: [-219.0911] || Actual Tag: cancer_positive || right
+Y58.JPG || Raw output: [-1166.1788] || Actual Tag: cancer_positive || right
+Y180.jpg || Raw output: [-1123.6746] || Actual Tag: cancer_positive || right
+15 no.jpg || Raw output: [51.301346] || Actual Tag: cancer_negitive || right
+Y170.JPG || Raw output: [-1901.9713] || Actual Tag: cancer_positive || right
+Y243.JPG || Raw output: [-1278.0737] || Actual Tag: cancer_positive || right
+43 no.jpg || Raw output: [-24.483261] || Actual Tag: cancer_negitive || wrong
+No17.jpg || Raw output: [93.570656] || Actual Tag: cancer_negitive || right
+Y107.jpg || Raw output: [-246.8027] || Actual Tag: cancer_positive || right
+Y76.jpg || Raw output: [-1656.0322] || Actual Tag: cancer_positive || right
+Y53.jpg || Raw output: [-353.6776] || Actual Tag: cancer_positive || right
+Y159.JPG || Raw output: [-152.05652] || Actual Tag: cancer_positive || right
+Y16.JPG || Raw output: [-1148.453] || Actual Tag: cancer_positive || right
+Y146.JPG || Raw output: [-1475.7695] || Actual Tag: cancer_positive || right
+36 no.jpg || Raw output: [1125.6382] || Actual Tag: cancer_negitive || right
+Y185.jpg || Raw output: [-735.6997] || Actual Tag: cancer_positive || right
+38 no.jpg || Raw output: [2433.342] || Actual Tag: cancer_negitive || right
+3 no.jpg || Raw output: [1663.3821] || Actual Tag: cancer_negitive || right
+Y192.JPG || Raw output: [-84.06965] || Actual Tag: cancer_positive || right
+Y105.jpg || Raw output: [-1057.5691] || Actual Tag: cancer_positive || right
+Y18.JPG || Raw output: [-1525.5629] || Actual Tag: cancer_positive || right
+no 90.jpg || Raw output: [1938.468] || Actual Tag: cancer_negitive || right
+Y44.JPG || Raw output: [-3292.5671] || Actual Tag: cancer_positive || right
+Y36.JPG || Raw output: [-215.69046] || Actual Tag: cancer_positive || right
+Y55.jpg || Raw output: [-2675.9954] || Actual Tag: cancer_positive || right
+Y26.jpg || Raw output: [-880.77014] || Actual Tag: cancer_positive || right
+Y97.JPG || Raw output: [-648.59406] || Actual Tag: cancer_positive || right
+Y66.JPG || Raw output: [-11.2457695] || Actual Tag: cancer_positive || undetermined
+Y77.jpg || Raw output: [-1486.0039] || Actual Tag: cancer_positive || right
+Y61.jpg || Raw output: [-806.6094] || Actual Tag: cancer_positive || right
+No18.jpg || Raw output: [697.8677] || Actual Tag: cancer_negitive || right
+Y15.jpg || Raw output: [-2136.1282] || Actual Tag: cancer_positive || right
+Y34.jpg || Raw output: [-2136.1282] || Actual Tag: cancer_positive || right
+Y109.JPG || Raw output: [-6941.761] || Actual Tag: cancer_positive || right
+Y247.JPG || Raw output: [737.28217] || Actual Tag: cancer_positive || wrong
+Y79.jpg || Raw output: [-4286.3657] || Actual Tag: cancer_positive || right
+Y245.jpg || Raw output: [-269.72894] || Actual Tag: cancer_positive || right
+Y165.JPG || Raw output: [-258.85544] || Actual Tag: cancer_positive || right
+8 no.jpg || Raw output: [2433.342] || Actual Tag: cancer_negitive || right
+Y3.jpg || Raw output: [-892.71375] || Actual Tag: cancer_positive || right
+no 3.jpg || Raw output: [1094.3611] || Actual Tag: cancer_negitive || right
+Y54.jpg || Raw output: [-1749.4645] || Actual Tag: cancer_positive || right
+no 7.jpeg || Raw output: [2025.0065] || Actual Tag: cancer_negitive || right
+Y167.JPG || Raw output: [738.16284] || Actual Tag: cancer_positive || wrong
+Y153.jpg || Raw output: [-2108.444] || Actual Tag: cancer_positive || right
+Y56.jpg || Raw output: [-1090.4795] || Actual Tag: cancer_positive || right
+19 no.jpg || Raw output: [-195.27473] || Actual Tag: cancer_negitive || wrong
+Y70.jpg || Raw output: [-1749.4645] || Actual Tag: cancer_positive || right
+No20.jpg || Raw output: [874.6895] || Actual Tag: cancer_negitive || right
+Y184.JPG || Raw output: [167.68933] || Actual Tag: cancer_positive || wrong
+26 no.jpg || Raw output: [1442.8997] || Actual Tag: cancer_negitive || right
+Y183.jpg || Raw output: [-1628.4539] || Actual Tag: cancer_positive || right
+Y166.JPG || Raw output: [-920.47144] || Actual Tag: cancer_positive || right
+Y20.jpg || Raw output: [-348.03418] || Actual Tag: cancer_positive || right
+Y59.JPG || Raw output: [-940.27136] || Actual Tag: cancer_positive || right
+Y28.jpg || Raw output: [-1912.5616] || Actual Tag: cancer_positive || right
+Y29.jpg || Raw output: [-5867.398] || Actual Tag: cancer_positive || right
+no 1.jpg || Raw output: [2375.4465] || Actual Tag: cancer_negitive || right
+39 no.jpg || Raw output: [2022.0547] || Actual Tag: cancer_negitive || right
+Y2.jpg || Raw output: [-359.9881] || Actual Tag: cancer_positive || right
+Y161.JPG || Raw output: [-579.68713] || Actual Tag: cancer_positive || right
+48 no.jpeg || Raw output: [346.126] || Actual Tag: cancer_negitive || right
+Y104.jpg || Raw output: [-300.9686] || Actual Tag: cancer_positive || right
+N22.JPG || Raw output: [207.43076] || Actual Tag: cancer_negitive || right
+Y116.JPG || Raw output: [-1523.8088] || Actual Tag: cancer_positive || right
+Y254.jpg || Raw output: [-65.8726] || Actual Tag: cancer_positive || right
+Y35.jpg || Raw output: [-84.83902] || Actual Tag: cancer_positive || right
+13 no.jpg || Raw output: [992.8628] || Actual Tag: cancer_negitive || right
+Y181.jpg || Raw output: [-2136.1282] || Actual Tag: cancer_positive || right
+Y14.jpg || Raw output: [-1375.0426] || Actual Tag: cancer_positive || right
+Y62.jpg || Raw output: [-451.23584] || Actual Tag: cancer_positive || right
+Y45.JPG || Raw output: [328.16492] || Actual Tag: cancer_positive || wrong
+Y31.jpg || Raw output: [-451.2359] || Actual Tag: cancer_positive || right
+Y111.JPG || Raw output: [-4761.3125] || Actual Tag: cancer_positive || right
+Y11.jpg || Raw output: [-2221.7896] || Actual Tag: cancer_positive || right
+Y163.JPG || Raw output: [-581.69214] || Actual Tag: cancer_positive || right
+N16.jpg || Raw output: [679.0105] || Actual Tag: cancer_negitive || right
+45 no.jpg || Raw output: [359.33994] || Actual Tag: cancer_negitive || right
+no 91.jpeg || Raw output: [2274.5151] || Actual Tag: cancer_negitive || right
+30 no.jpg || Raw output: [67.39235] || Actual Tag: cancer_negitive || right
+N11.jpg || Raw output: [-419.7202] || Actual Tag: cancer_negitive || wrong
+23 no.jpg || Raw output: [1616.1222] || Actual Tag: cancer_negitive || right
+Y75.JPG || Raw output: [80.25279] || Actual Tag: cancer_positive || wrong
+Y164.JPG || Raw output: [-1000.0325] || Actual Tag: cancer_positive || right
+Y92.jpg || Raw output: [-421.21576] || Actual Tag: cancer_positive || right
+No12.jpg || Raw output: [1469.786] || Actual Tag: cancer_negitive || right
+28 no.jpg || Raw output: [1967.3352] || Actual Tag: cancer_negitive || right
+Y51.jpg || Raw output: [-3327.02] || Actual Tag: cancer_positive || right
+Y50.JPG || Raw output: [-505.08728] || Actual Tag: cancer_positive || right
+N6.jpg || Raw output: [993.7566] || Actual Tag: cancer_negitive || right
+46 no.jpg || Raw output: [2578.8704] || Actual Tag: cancer_negitive || right
+no 923.jpg || Raw output: [668.8151] || Actual Tag: cancer_negitive || right
+Y193.JPG || Raw output: [-407.8755] || Actual Tag: cancer_positive || right
+No13.jpg || Raw output: [595.7306] || Actual Tag: cancer_negitive || right
+no 9.png || Raw output: [2304.202] || Actual Tag: cancer_negitive || right
+11 no.jpg || Raw output: [305.5761] || Actual Tag: cancer_negitive || right
+No14.jpg || Raw output: [623.136] || Actual Tag: cancer_negitive || right
+Y120.JPG || Raw output: [579.3605] || Actual Tag: cancer_positive || wrong
+50 no.jpg || Raw output: [1051.1239] || Actual Tag: cancer_negitive || right
+No11.jpg || Raw output: [2025.0065] || Actual Tag: cancer_negitive || right
+Y148.JPG || Raw output: [-1519.1544] || Actual Tag: cancer_positive || right
+Y4.jpg || Raw output: [-566.7141] || Actual Tag: cancer_positive || right
+21 no.jpg || Raw output: [901.1659] || Actual Tag: cancer_negitive || right
+Y52.jpg || Raw output: [-7638.651] || Actual Tag: cancer_positive || right
+Y9.jpg || Raw output: [-1588.1549] || Actual Tag: cancer_positive || right
+Y21.jpg || Raw output: [-1073.3114] || Actual Tag: cancer_positive || right
+29 no.jpg || Raw output: [866.193] || Actual Tag: cancer_negitive || right
+Y78.jpg || Raw output: [-667.391] || Actual Tag: cancer_positive || right
+33 no.jpg || Raw output: [637.4817] || Actual Tag: cancer_negitive || right
+10 no.jpg || Raw output: [591.09216] || Actual Tag: cancer_negitive || right
+N3.jpg || Raw output: [3189.975] || Actual Tag: cancer_negitive || right
+Y250.jpg || Raw output: [177.0868] || Actual Tag: cancer_positive || wrong
+Y187.jpg || Raw output: [838.69434] || Actual Tag: cancer_positive || wrong
+Y74.jpg || Raw output: [-2675.9954] || Actual Tag: cancer_positive || right
+no 2.jpg || Raw output: [1317.4938] || Actual Tag: cancer_negitive || right
+Y92.png || Raw output: [-336.54303] || Actual Tag: cancer_positive || right
+Y157.JPG || Raw output: [-1438.4852] || Actual Tag: cancer_positive || right
+Y258.JPG || Raw output: [-717.6677] || Actual Tag: cancer_positive || right
+Y25.jpg || Raw output: [-1593.8636] || Actual Tag: cancer_positive || right
+N20.JPG || Raw output: [677.7543] || Actual Tag: cancer_negitive || right
+N17.jpg || Raw output: [250.52963] || Actual Tag: cancer_negitive || right
+Y117.JPG || Raw output: [-922.29553] || Actual Tag: cancer_positive || right
+Y195.JPG || Raw output: [-484.84045] || Actual Tag: cancer_positive || right
+N1.JPG || Raw output: [719.3373] || Actual Tag: cancer_negitive || right
+no 10.jpg || Raw output: [2123.6182] || Actual Tag: cancer_negitive || right
+Y86.JPG || Raw output: [391.3626] || Actual Tag: cancer_positive || wrong
+Y248.JPG || Raw output: [-1223.9036] || Actual Tag: cancer_positive || right
+Y114.JPG || Raw output: [-230.21988] || Actual Tag: cancer_positive || right
+no 4.jpg || Raw output: [3189.975] || Actual Tag: cancer_negitive || right
+no 96.jpg || Raw output: [1384.2] || Actual Tag: cancer_negitive || right
+No19.jpg || Raw output: [931.44525] || Actual Tag: cancer_negitive || right

@@ -1,0 +1,5 @@
+The Small2 model is the best I would say of the 3 Small classes
+
+It has 3.7+ million parameters and has got all the images correct, same could be said for Small1 but Small2 was more sure of the anwsers.
+
+It took 0.44 seconds to run which is about the same as its peers except for Small3 which took only 0.33 seconds to run however that model got one wrong.

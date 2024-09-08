@@ -1,0 +1,269 @@
+Brain Cancer Accuracy Test Report
+
+Model: BCM_LiteTurboPentarieCell2
+
+Total Prediction Time: 63.1 second(s)
+Time-Per-Image: 0.25 second(s)
+
+Images: 252
+
+accuracy: 0%
+undetermined_range: 15
+define_rate: 0.0%
+
+undetermined: 252 images || right: 0 images || wrong: 0 images
+
+Raw Data:
+
+Y1.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+No15.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+9 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+6 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+34 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y39.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y46.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y6.jpg || Raw output: [-0.00238663] || Actual Tag: cancer_positive || undetermined
+Y47.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y168.jpg || Raw output: [0.04329048] || Actual Tag: cancer_positive || undetermined
+Y38.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y42.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 97.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+No21.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y33.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 100.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+N21.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y67.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y155.JPG || Raw output: [-0.00019304] || Actual Tag: cancer_positive || undetermined
+Y186.jpg || Raw output: [0.07143846] || Actual Tag: cancer_positive || undetermined
+no 94.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y252.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y17.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+No22.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y98.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+20 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+no 89.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y188.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y246.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y65.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y24.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y156.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y253.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+37 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y194.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 99.jpg || Raw output: [-0.47199693] || Actual Tag: cancer_negitive || undetermined
+no 6.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y158.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y256.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y32.jpg || Raw output: [1.2880291] || Actual Tag: cancer_positive || undetermined
+Y91.jpg || Raw output: [0.23184343] || Actual Tag: cancer_positive || undetermined
+no 95.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y7.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+32 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y160.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+1 no.jpeg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+42 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y112.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y154.jpg || Raw output: [1.3676776] || Actual Tag: cancer_positive || undetermined
+Y95.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y106.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y73.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y244.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y103.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y40.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y100.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+7 no.jpg || Raw output: [0.13865814] || Actual Tag: cancer_negitive || undetermined
+Y23.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+12 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y113.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y115.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+4 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y182.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y259.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y82.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y37.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+27 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+18 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+25 no.jpg || Raw output: [0.01569892] || Actual Tag: cancer_negitive || undetermined
+14 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y10.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 98.jpg || Raw output: [-0.03124235] || Actual Tag: cancer_negitive || undetermined
+17 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+24 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+49 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+N15.jpg || Raw output: [0.4701795] || Actual Tag: cancer_negitive || undetermined
+N5.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+2 no.jpeg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+N26.JPG || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y60.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y108.jpg || Raw output: [2.8212159] || Actual Tag: cancer_positive || undetermined
+Y81.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y257.jpg || Raw output: [3.599654] || Actual Tag: cancer_positive || undetermined
+Y255.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y251.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y71.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y69.jpg || Raw output: [0.5983146] || Actual Tag: cancer_positive || undetermined
+5 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y30.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y13.jpg || Raw output: [-0.2797959] || Actual Tag: cancer_positive || undetermined
+Y162.jpg || Raw output: [2.8212159] || Actual Tag: cancer_positive || undetermined
+Y89.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+22 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+no 5.jpeg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y90.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y22.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 8.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y147.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+N19.JPG || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+N2.JPG || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+41 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y102.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y12.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y8.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y19.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y96.jpg || Raw output: [0.01438213] || Actual Tag: cancer_positive || undetermined
+Y249.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y169.jpg || Raw output: [-0.2797959] || Actual Tag: cancer_positive || undetermined
+40 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+44no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+no 92.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y99.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y85.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y27.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y41.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+31 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y101.jpg || Raw output: [0.00062493] || Actual Tag: cancer_positive || undetermined
+35 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y49.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+47 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y242.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y58.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y180.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+15 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y170.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y243.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+43 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+No17.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y107.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y76.jpg || Raw output: [0.26905826] || Actual Tag: cancer_positive || undetermined
+Y53.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y159.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y16.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y146.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+36 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y185.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+38 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+3 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y192.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y105.jpg || Raw output: [0.3839567] || Actual Tag: cancer_positive || undetermined
+Y18.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 90.jpg || Raw output: [0.165977] || Actual Tag: cancer_negitive || undetermined
+Y44.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y36.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y55.jpg || Raw output: [0.49026325] || Actual Tag: cancer_positive || undetermined
+Y26.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y97.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y66.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y77.jpg || Raw output: [0.03594814] || Actual Tag: cancer_positive || undetermined
+Y61.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+No18.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y15.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y34.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y109.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y247.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y79.jpg || Raw output: [1.3676776] || Actual Tag: cancer_positive || undetermined
+Y245.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y165.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+8 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y3.jpg || Raw output: [0.06855288] || Actual Tag: cancer_positive || undetermined
+no 3.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y54.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 7.jpeg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y167.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y153.jpg || Raw output: [1.8410219] || Actual Tag: cancer_positive || undetermined
+Y56.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+19 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y70.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+No20.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y184.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+26 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y183.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y166.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y20.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y59.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y28.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y29.jpg || Raw output: [-0.02501632] || Actual Tag: cancer_positive || undetermined
+no 1.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+39 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y2.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y161.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+48 no.jpeg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y104.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+N22.JPG || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y116.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y254.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y35.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+13 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y181.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y14.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y62.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y45.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y31.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y111.JPG || Raw output: [-0.11796159] || Actual Tag: cancer_positive || undetermined
+Y11.jpg || Raw output: [0.01859217] || Actual Tag: cancer_positive || undetermined
+Y163.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+N16.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+45 no.jpg || Raw output: [0.05377219] || Actual Tag: cancer_negitive || undetermined
+no 91.jpeg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+30 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+N11.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+23 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y75.JPG || Raw output: [0.07655801] || Actual Tag: cancer_positive || undetermined
+Y164.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y92.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+No12.jpg || Raw output: [0.03028271] || Actual Tag: cancer_negitive || undetermined
+28 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y51.jpg || Raw output: [0.11300197] || Actual Tag: cancer_positive || undetermined
+Y50.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+N6.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+46 no.jpg || Raw output: [0.70804894] || Actual Tag: cancer_negitive || undetermined
+no 923.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y193.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+No13.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+no 9.png || Raw output: [-0.7205843] || Actual Tag: cancer_negitive || undetermined
+11 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+No14.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y120.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+50 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+No11.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y148.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y4.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+21 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y52.jpg || Raw output: [0.00115588] || Actual Tag: cancer_positive || undetermined
+Y9.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y21.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+29 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y78.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+33 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+10 no.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+N3.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y250.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y187.jpg || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y74.jpg || Raw output: [0.49026325] || Actual Tag: cancer_positive || undetermined
+no 2.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y92.png || Raw output: [0.08967455] || Actual Tag: cancer_positive || undetermined
+Y157.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y258.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y25.jpg || Raw output: [0.5983146] || Actual Tag: cancer_positive || undetermined
+N20.JPG || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+N17.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+Y117.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y195.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+N1.JPG || Raw output: [-0.08093585] || Actual Tag: cancer_negitive || undetermined
+no 10.jpg || Raw output: [0.26881784] || Actual Tag: cancer_negitive || undetermined
+Y86.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y248.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+Y114.JPG || Raw output: [0.00066956] || Actual Tag: cancer_positive || undetermined
+no 4.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+no 96.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
+No19.jpg || Raw output: [0.00066956] || Actual Tag: cancer_negitive || undetermined
